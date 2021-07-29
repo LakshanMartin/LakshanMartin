@@ -1,6 +1,6 @@
 # Welcome to my GitHub Portfolio
 
-Hi, my name is Lakshan Martin (aka “Lucky”). 
+Hi, my name is Lakshan Martin (aka **“Lucky”**). 
 
 I’m currently a student at Curtin University studying a Bachelor a Science(Computing), specialising in Software Engineering. I expect to complete my studies by the end of 2022.
 
