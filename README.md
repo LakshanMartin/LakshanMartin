@@ -6,7 +6,7 @@ I’m currently a student at Curtin University studying a Bachelor a Science(Com
 
 Please feel free to browse through my repositories and contact me for any enquiries.
 
-Thanks! :)
+Thanks! :smile:
 
 **Email:** [lakshan.martin@gmail.com](mailto:lakshan.martin@gmail.com)
 
