@@ -49,5 +49,5 @@ The repositories listed below contain all the programming assignments I’ve com
 
 |                     2018                      |     2019     |          2020          |    2021     |
 | :-------------------------------------------: | :----------: | :--------------------: | :---------: |
-| [Object Oriented Programming Design](https://github.com/LakshanMartin/OOPD) | DSA <br> UCP | FCC<br>OS<br>DS<br>MAD | HCI<br>OOSE |
+| [OOPD](https://github.com/LakshanMartin/OOPD) | DSA <br> UCP | FCC<br>OS<br>DS<br>MAD | HCI<br>OOSE |
 
