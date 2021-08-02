@@ -29,11 +29,9 @@ I haven’t quite finalised this project, however it has all the functionality m
 
 
 
-## Cyber Security CTF Write-Ups (ongoing)
+## [Cyber Security CTF Write-Ups](https://github.com/LakshanMartin/CTF_WriteUps) (ongoing)
 
 Aside from studying Software Engineering, I am also quite interested in Cyber Security. I enjoy working through “Capture the Flag” (CTF’s) games to learn a variety of skills not formally taught through my degree. 
-
-- [picoCTF](https://github.com/LakshanMartin/picoCTF)
 
   
 
