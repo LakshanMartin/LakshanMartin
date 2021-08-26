@@ -14,7 +14,9 @@ Thanks! :smile:
 
 # Personal Projects
 
-## [Portfolio Website](https://github.com/LakshanMartin/Portfolio_Website) (work in progress)
+## [Portfolio Website](https://github.com/LakshanMartin/Portfolio_Website)
+
+The live site: https://lakshanmartin.netlify.app/
 
 I began this project as a way to learn JavaScript and the React library. I have expectations to utilise this website to host and better display my Project Portfolio.
 
