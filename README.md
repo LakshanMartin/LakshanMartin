@@ -8,7 +8,7 @@ Please feel free to browse through my repositories and contact me for any enquir
 
 Thanks! :smile:
 
-**Email:** [lakshan.martin@gmail.com](mailto:lakshan.martin@gmail.com)
+**Email:** [lakshan.martin@gmail.com](mailto:lakshan.martin@gmail.com).
 **Website:** https://lakshanmartin.netlify.app/
 
 
